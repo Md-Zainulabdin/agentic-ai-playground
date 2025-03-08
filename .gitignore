@@ -1,0 +1,13 @@
+# Ignore virtual environments
+venv/
+.env/
+.env.bak/
+venv.bak/
+*/venv/
+*/.venv/
+
+# macOS-specific
+.DS_Store
+
+# Windows-specific
+Thumbs.db
